@@ -39,7 +39,7 @@ Trước khi sử dụng script, bạn **BẮT BUỘC** phải cài đặt và c
 
 ## 🚀 Hướng dẫn sử dụng
 
-1.  **Tải script**: Tải file `stream.bat` này về máy tính của bạn.
+1.  **Tải script**: Tải file [stream.bat](https://raw.githubusercontent.com/Sang-gg/SCRCPY_WI-FI_MIRRORING/refs/heads/main/stream.bat) này về máy tính của bạn.
 2.  **Chạy script**: Nháy đúp chuột vào file `stream.bat` để khởi chạy menu.
 3.  **Bật Gỡ lỗi USB trên điện thoại**:
     * Vào `Settings` > `About phone` > Gõ 7 lần vào `Build number` để bật `Developer options`.
